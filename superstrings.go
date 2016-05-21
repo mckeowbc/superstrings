@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/mckeowbc/superstrings"
+	"github.com/mckeowbc/superstrings/package"
 	"os"
 )
 
